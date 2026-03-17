@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-FASTFOREX_API_KEY = "YOUR_API_KEY"
+FASTFOREX_API_KEY = "0594116d87-057828afaf-tc15n9"
 
 url = f"https://api.fastforex.io/fetch-all?from=INR&api_key={FASTFOREX_API_KEY}"
 
